@@ -1,0 +1,1 @@
+print('My favourite book is \"Magic Treehouse\"\nand \nMy favourite character is this: \"\\\" the backward slash ')
