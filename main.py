@@ -5,7 +5,7 @@ def main():
     b = 2
     print (a + b)
 main()
-peint("qwerty ends")
+print("qwerty ends")
 ###################################
 print("helloworld")
 a = 123
